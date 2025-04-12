@@ -1,0 +1,33 @@
+{
+    "name": "Robot Rad",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.32",
+        "jacdac-motor": "github:microsoft/pxt-jacdac/motor",
+        "jacdac-led": "github:microsoft/pxt-jacdac/led",
+        "jacdac-led-single": "github:microsoft/pxt-jacdac/led-single",
+        "tutorial-template": "github:microbit-foundation/makecode-tutorials#v1.0.0",
+        "jacdac-led-strip": "github:microsoft/pxt-jacdac/led-strip"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "jacdac.json",
+        "jacdac.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -1,0 +1,24 @@
+{
+    "roles": [
+        {
+            "name": "motorL",
+            "service": 385895640
+        },
+        {
+            "name": "motorR",
+            "service": 385895640
+        },
+        {
+            "name": "motorD3B",
+            "service": 385895640
+        },
+        {
+            "name": "ledVL",
+            "service": 369743088
+        },
+        {
+            "name": "ledVR",
+            "service": 369743088
+        }
+    ]
+}
